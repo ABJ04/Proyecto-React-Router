@@ -1,0 +1,42 @@
+footer {
+    text-align: center;
+    padding: 3em;
+    bottom: 0;
+}
+
+.contact-css{
+    text-align: center;
+}
+
+
+.home{
+    text-align: center;
+}
+
+.contenido {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: space-around; 
+    gap: 50px;
+  }
+  
+input{
+    width: 700px;
+    height: 50px;
+
+}
+
+.descripcion2{
+   width: 700px;
+   height: 100px;
+   text-align:center;
+}
+
+.contact-css{
+    margin: 180px;
+}
+
+.no-foud{
+    margin: 323px;
+}
